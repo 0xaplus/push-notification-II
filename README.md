@@ -1,4 +1,4 @@
-# push-notification-II
+# Push-notification-II
 Push notification created with nodeJS and service worker
 
 # Command line
@@ -10,6 +10,12 @@ npm install
 Run program
 ```
 npm start
+```
+On the console, you get "Server running at PORT 8000"
+
+To view the frontend, Go to your browser and enter url:
+```
+http://localhost:8000/
 ```
 
 To generate Public and Private keys
